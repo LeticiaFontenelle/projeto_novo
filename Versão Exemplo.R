@@ -2,4 +2,9 @@
 # Versão 2
 # Versão 3
 # Texto
-library(tidyverse)
+library(tidyverse)    
+# Versão 6
+# Versão 7
+mutate()
+rename()
+filter()
